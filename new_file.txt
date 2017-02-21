@@ -1,3 +1,5 @@
 # Here is a text file I just created
 
 Some content....
+
+Master was changes after the feature1 was created.

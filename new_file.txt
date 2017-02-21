@@ -1,3 +1,5 @@
 # Here is a text file I just created
 
 Some content....
+
+Feature1 was added.

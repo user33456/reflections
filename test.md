@@ -2,6 +2,14 @@ How did viewing a diff between two versions of a file help you see the bug that 
 
    - It was very helpful
 
+
+
+
+
+
+
+## New section down here
+
 __This is a small change I added__ 
 
 

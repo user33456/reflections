@@ -3,3 +3,11 @@
 Some content....
 
 Master was changes after the feature1 was created.
+
+
+
+
+
+
+
+Feature1 was added.
